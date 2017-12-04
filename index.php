@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<?php include('assets/incl/head.php') ?>
 	<meta charset="utf-8">
 	<title><?php bloginfo( 'title' ) ?></title>
 	<link type="text/css" rel="stylesheet" href="<?php bloginfo('stylesheet_url') ?>" media="all">
