@@ -3,3 +3,36 @@
  * Author: Kristian Krab, og kun ham
  */
 
+.menu {
+  list-style-type: none !important;
+  margin: 0;
+  padding: 50px;
+  padding-bottom: 0;
+  overflow: hidden;
+  background-color: #ffffff;
+  border-bottom: 1px solid black;
+}
+
+ul {
+  list-style-type: none!important;
+}
+
+.page_item {
+   float: right;
+}
+
+.page_item a {
+   display: block;
+   color: black;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none !important;
+}
+
+.page_item a:hover {
+  color: #5eafca;
+}
+
+body {
+  background-color: white;
+}
