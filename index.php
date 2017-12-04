@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<h1>My fancy krabq ladida theme</h1>
+<h1>My fancy krabqe ladida theme</h1>
 
 	<header>
 	<div>
