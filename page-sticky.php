@@ -1,5 +1,5 @@
 <?php
-/**
+/*
  * Template Name: Side med priser
  */
 ?>
