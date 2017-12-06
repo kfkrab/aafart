@@ -154,7 +154,7 @@
 <div class="container">
 
 	<div class="row">
-		<div class="col-md-8">yes this is dog</div>
+		<div class="col-md-8">yes this this is dog</div>
 		
 		
 		
