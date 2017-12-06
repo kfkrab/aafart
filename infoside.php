@@ -1,3 +1,8 @@
+<?php
+/*
+ * Template Name: infosider	
+ */
+?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -7,6 +12,7 @@
 	<header>
 	<?php include('assets/incl/header.php') ?>
 	</header>
+	
 	
 	
 	
@@ -71,15 +77,6 @@
 	</section>
 
 
-<section class="">
-<div class="container"></div>
-</section>
-	
-	
-<section>	
-<div class="container"></div>	
-</section>	
-	
 <?php include('assets/incl/bottom.php') ?>
 </body>
 </html>

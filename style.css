@@ -1,9 +1,9 @@
 /**
  * Theme Name: Odense Aafart
- * Author: Kristian Krab, og kun ham
+ * Author: Kristian Krab, og kun ham.
  */
 
-.menu {
+.menu { 
   list-style-type: none !important;
   margin: 0;
   padding: 50px;
@@ -35,4 +35,27 @@ ul {
 
 body {
   background-color: white;
+}
+
+section{
+	margin-bottom: 25px;
+}
+
+
+.overskrift_1{
+	font-size: 2em;
+}
+
+.avatar{
+	
+	width: 100%;
+}
+
+/*forside*/
+
+#forside_musik{
+	background-color: #5eafca;
+	color: white;
+	padding-top: 25px;
+	padding-bottom: 25px;
 }
